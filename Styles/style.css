@@ -1,4 +1,10 @@
 
+body{
+    margin: 0px;
+
+}
+
+
 .open-sans-normal {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -201,4 +207,9 @@ footer{
     padding: 10px 20px;
     border: none;
     margin-bottom: 20px;
+}
+
+.social-icon a{
+    margin-right: 10px;
+    color: #FD6E0A;
 }
